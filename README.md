@@ -33,8 +33,7 @@ This Power BI project simulates a real-world enterprise dashboard for Country De
 
 ## 📂 Files Included
 
-- `country-delight-ceo-dashboard.pbix`
-- `dashboard-export.pdf`
+- `dashboard.pbix`
 - `quality_data.csv`, `returns_data.csv`, `complaint_data.csv`
 - `quality.png`, `complaints.png`, `profitloss.png`
 - `README.md`
