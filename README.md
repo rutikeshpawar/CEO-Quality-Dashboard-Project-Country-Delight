@@ -1,4 +1,4 @@
-# 📊 Food Quality Dashboard 
+# 📊 Food Quality Dashboard to Country Delight – CEO 
 
 ## 📌 Project Overview  
 This project presents a **comprehensive Power BI dashboard** designed for the CEO of *Country Delight* to monitor **Quality**, **Complaints**, and **Returns & Profit Loss** performance metrics.  
